@@ -9,10 +9,26 @@ body {
   margin: 0px;
 }    
 
-.image {
-  max-width: 100%;
+#title {
+  
+}
+
+.figure {
+  
+}
+
+#image {
+  max-width: 80%;
   display: block;
   height: auto;
-  position: absoulte;
+  position: relative;
   margin: auto;
+}
+
+.list {
+  
+}
+
+#tribute-info {
+  
 }
