@@ -15,23 +15,18 @@ body {
 }
 
 .figure {
-  
+  display: grid;
 }
 
 #image {
   max-width: 80%;
-  display: block;
   height: auto;
   position: relative;
   margin: auto;
 }
 
-#caption
-
-.list {
-  
+#caption {
+      text-align: center;
 }
 
-#tribute-info {
-  
-}
+
